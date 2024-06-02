@@ -1,1 +1,1 @@
-Football data analyses
+Analyses using sports data
